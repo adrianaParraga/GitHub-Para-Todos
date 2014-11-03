@@ -1,7 +1,8 @@
 #primer pagina
 
 ## *Hacer Matematica*
-
+**ver**
+__tachado__
 
 
 Este es un primer texto para *modificar*, **cambiar** y jugar.
